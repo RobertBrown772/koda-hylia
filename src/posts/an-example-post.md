@@ -8,3 +8,5 @@ image: ''
 
 ---
 ##### This is the content area
+
+this is an example content area and this is the paragraph content 
